@@ -23,4 +23,4 @@ jobs:
           pip install opencv-python numpy requests
 
       - name: Run scanner
-        run: python Bloxfruits\ Webhook.py
+        run: python Webhook.py
